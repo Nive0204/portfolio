@@ -1,0 +1,51 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.left{
+    display: flex;
+    justify-content: space-evenly;
+}
+.top{
+    padding: 60px;
+    height:90px;
+    background-color: grey;
+    color: beige;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.titles{
+    padding: 25px;
+    height:25px;
+    display:flex;
+    background-color: aquamarine;
+    justify-content: space-evenly;
+ 
+}
+#home{
+    padding: 10px;
+    color:black;
+    background-color: azure;
+}
+#certificate{
+    padding: 10px;
+    color:black;
+    background-color: moccasin;
+}
+#project{
+    padding: 10px;
+    color:black;
+    background-color: antiquewhite;
+}
+#contact{
+    padding: 10px;
+    color:whitesmoke;
+    background-color: black;
+    text-align: center;
+}
